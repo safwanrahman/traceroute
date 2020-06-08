@@ -9,6 +9,6 @@ name="traceroute"
 [[bin]]
 name="simple-traceroute"
 
-[dependencies.packet]
+[dependencies]
 git="http://github.com/mcpherrinm/packet.git"
 
